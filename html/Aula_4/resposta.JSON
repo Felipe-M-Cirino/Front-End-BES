@@ -1,0 +1,57 @@
+{
+  "args": {
+
+  },
+  "data": "",
+  "files": {
+
+  },
+  "form": {
+    "nome": "felipe",
+    "email": "fhee.morais@gmail.com",
+    "idade": "",
+    "cidade": "",
+    "telefone": "",
+    "nickname": "player1234",
+    "nascimento": "",
+    "jogo": "cs2",
+    "pc": "sim",
+    "termos": "aceito"
+  },
+  "headers": {
+    "host": "postman-echo.com",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, br",
+    "priority": "u=0, i",
+    "accept-language": "pt-BR,pt;q=0.5",
+    "content-length": "128",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Brave\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "upgrade-insecure-requests": "1",
+    "content-type": "application/x-www-form-urlencoded",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+    "origin": "null",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "sec-gpc": "1",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "x-forwarded-proto": "https",
+    "cookie": "__cf_bm=oJA0UtX1oBNFyQzX2umTyEroHMFgQuxydp_tGr9urBY-1790207541.2239406-1.0.1.1-6hzVw_4JEz_xv6IA_OAVeIwDt.kYK7fWgPd1dG8JCVc0f57739CKFu1PFpq4khktk1LqoaxoPZL6o9l7lrBZY7jz9LkziL99hOCEVrwdT8J5lvRSsq25EC2iaKrY3yjU; _cfuvid=a2euuRQ4vteUcCV229EIf.wG3Ep6V_xdIqXvNhA3A_0-1790207541.2239406-1.0.1.1-UiLuo1HVZ29FQUO14TpaEN_d9omhfHdr3rQbXw5C7MM"
+  },
+  "json": {
+    "nome": "felipe",
+    "email": "fhee.morais@gmail.com",
+    "idade": "",
+    "cidade": "",
+    "telefone": "",
+    "nickname": "player1234",
+    "nascimento": "",
+    "jogo": "cs2",
+    "pc": "sim",
+    "termos": "aceito"
+  },
+  "url": "https://postman-echo.com/post"
+}

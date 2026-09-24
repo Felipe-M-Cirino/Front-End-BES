@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Formulário</title>
+</head>
+
+<body>
+
+    <h1>Formulário de Cadastro</h1>
+
+    <form method="post" action="https://postman-echo.com/post">
+
+        <label>Nome:</label>
+        <input type="text" name="nome" required>
+
+        <br><br>
+
+        <label>Email:</label>
+        <input type="email" name="email">
+
+        <br><br>
+
+        <label>Idade:</label>
+        <input type="number" name="idade">
+
+        <br><br>
+
+        <label>Cidade:</label>
+        <input type="text" name="cidade" placeholder="Digite sua cidade">
+
+        <br><br>
+
+        <label>Telefone:</label>
+        <input type="text" name="telefone">
+
+        <br><br>
+
+        <label>Nickname:</label>
+        <input type="text" name="nickname" pattern="[A-Za-z0-9]+">
+
+        <br><br>
+
+        <label>Data de nascimento:</label>
+        <input type="date" name="nascimento">
+
+        <br><br>
+
+        <label>Jogo favorito:</label>
+        <select name="jogo">
+            <option value="cs2">CS2</option>
+            <option value="valorant">Valorant</option>
+            <option value="minecraft">Minecraft</option>
+        </select>
+
+        <br><br>
+
+        <label>Você joga no PC?</label>
+        <input type="radio" name="pc" value="sim"> Sim
+        <input type="radio" name="pc" value="nao"> Não
+
+        <br><br>
+
+        <input type="checkbox" name="termos" value="aceito">
+        <label>Aceito os termos</label>
+
+        <br><br>
+
+        <button type="submit">Enviar</button>
+
+    </form>
+
+</body>
+
+</html>
